@@ -15,7 +15,7 @@ HTML, body {
   display: none;
 }
 
-.topnav a {
+.navbar a {
   color: white;
   padding: 14px 16px;
   text-decoration: none;
