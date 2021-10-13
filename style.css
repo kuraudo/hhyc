@@ -45,3 +45,10 @@ HTML, body {
   background-color: #04AA6D;
   color: white;
 }
+
+/* Escritorio: */
+@media only screen and (min-width: 768px) {
+  .navbar {
+    display:none
+  }
+}
