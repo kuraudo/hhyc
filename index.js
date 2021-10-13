@@ -1,5 +1,5 @@
 const menu = require("./menu.js");
 
-function menu(){
+function navMenu(){
   menu.menu(); 
 }
