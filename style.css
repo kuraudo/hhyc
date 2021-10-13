@@ -16,7 +16,7 @@
   display: block;
 }
 
-.topnav a.icon {
+.navbar a.icon {
   background: black;
   display: block;
   position: absolute;
@@ -24,7 +24,7 @@
   top: 0;
 }
 
-.topnav a:hover {
+.navbar a:hover {
   background-color: #ddd;
   color: black;
 }
