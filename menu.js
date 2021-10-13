@@ -6,3 +6,4 @@ function menu() {
     x.style.display = "block";
   }
 }
+module.exports = { menu };
