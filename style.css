@@ -47,6 +47,8 @@ header {
 .active {
   background-color: #04AA6D;
   color: white;
+  pointer-events: none;
+  cursor: default;
 }
 
 /* Escritorio: */
