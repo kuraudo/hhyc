@@ -10,6 +10,7 @@ header {
 footer {
   background-color: #333;
   text-align: center;
+  position: fixed;
   color: white;
   height: 3vh;
   bottom: 0px;
