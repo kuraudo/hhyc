@@ -4,7 +4,9 @@ HTML, body {
   padding: 0px;
   border: 0px;
 }
-
+header {
+  display: none;
+}
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -52,4 +54,7 @@ HTML, body {
   .navbar {
     display:none
   }
+  header {
+  display: block;
+}
 }
