@@ -74,7 +74,10 @@ footer {
   .desktop {
     display: block;
   }
+  .navbar a {
+    float:left;
+  }
   header {
-  display: block;
-}
+    display: block;
+  }
 }
