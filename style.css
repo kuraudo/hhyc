@@ -24,6 +24,10 @@ footer {
   position: relative;
 }
 
+.desktop {
+  display: none;
+}
+
 .navbar #myLinks {
   display: none;
 }
@@ -64,8 +68,11 @@ footer {
 
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
-  .navbar {
-    display:none
+  .mobile {
+    display:none;
+  }
+  .desktop {
+    display: block;
   }
   header {
   display: block;
