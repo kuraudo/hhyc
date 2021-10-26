@@ -1,0 +1,17 @@
+pixabay:
+palma1.jpg
+palma2.jpg
+palma3.jpg
+palma4.jpg
+palma5.jpg
+palma6.jpg
+alcudia1.jpg
+alcudia2.jpg
+alcudia3.jpg
+soller1.jpg
+drach1.jpg
+playa1.jpg
+cala-agulla.jpg
+almudaina1.jpg
+catedral.jpg
+bellver1.jpg
