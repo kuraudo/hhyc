@@ -68,7 +68,7 @@ footer {
 
 .grid-container {
   display: grid;
-  grid-template-columns: auto;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
 
 /* Escritorio: */
@@ -84,8 +84,5 @@ footer {
   }
   header {
     display: block;
-  }
-  .grid-container {
-    display: grid;
   }
 }
