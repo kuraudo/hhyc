@@ -84,7 +84,7 @@ footer {
 .azul {
   width: 300px;
   height: 300px;
-  background-color: blue;
+  background-color: coral;
 }
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
