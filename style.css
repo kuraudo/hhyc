@@ -66,6 +66,11 @@ footer {
   cursor: default;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+}
+
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
   .mobile {
@@ -79,5 +84,8 @@ footer {
   }
   header {
     display: block;
+  }
+  .grid-container {
+    display: grid;
   }
 }
