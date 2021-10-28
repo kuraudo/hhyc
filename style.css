@@ -71,6 +71,10 @@ footer {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
 
+.grid-item {
+  height : 100vw  
+}
+
 .center {
   display: flex;
   justify-content: center;
