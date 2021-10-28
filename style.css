@@ -101,10 +101,10 @@ footer {
 
 .white {
   font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-weight: bold;
   color: white;
-  @supports (-webkit-text-stroke: 1px black) {
-    -webkit-text-stroke: 1px black;
-  }
+  -webkit-text-stroke: 1px black;
 }
 .rojo {
   width: 300px;
