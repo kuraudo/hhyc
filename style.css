@@ -84,6 +84,7 @@ footer {
 .palma {
   background-size: cover;
   background-image: url("images/palma1.jpg");
+  background-position: center;
 }
 
 .white {
@@ -108,5 +109,8 @@ footer {
   }
   header {
     display: block;
+  }
+  .grid-item {
+    height : 30vh  
   }
 }
