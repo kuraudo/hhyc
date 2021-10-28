@@ -66,6 +66,10 @@ footer {
   cursor: default;
 }
 
+.main-categoria a {
+  text-decoration:none;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto;
