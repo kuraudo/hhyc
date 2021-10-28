@@ -68,11 +68,13 @@ footer {
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: auto;
 }
 
 .grid-item {
-  height : 100vw  
+  height : 100vw; 
+  background-size: cover;
+  background-position: center;
 }
 
 .center {
@@ -82,9 +84,19 @@ footer {
 }
 
 .palma {
-  background-size: cover;
   background-image: url("images/palma1.jpg");
-  background-position: center;
+}
+
+.alcudia {
+  background-image: url("images/alcudia1.jpg");
+}
+
+.andratx {
+  background-image: url("images/andratx1.jpg");
+}
+
+.soller {
+  background-image: url("images/soller1.jpg");
 }
 
 .white {
@@ -101,15 +113,24 @@ footer {
   .mobile {
     display:none;
   }
+  
   .desktop {
     display: block;
   }
+  
   .navbar a {
     float:left;
   }
+  
   header {
     display: block;
   }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+  
   .grid-item {
     height : 30vh  
   }
