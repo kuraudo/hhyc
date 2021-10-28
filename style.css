@@ -6,6 +6,9 @@ HTML, body {
 }
 header {
   display: none;
+  background-image: url("images/mallorca1.jpg");
+  background-size: cover;
+  background-position: left center;
 }
 footer {
   background-color: #333;
