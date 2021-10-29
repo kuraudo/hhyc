@@ -101,6 +101,10 @@ footer {
   align-items: center;
 }
 
+.center-text {
+  text-align: center;
+}
+
 .palma {
   background-image: url("images/palma1.jpg");
 }
