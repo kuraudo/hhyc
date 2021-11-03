@@ -140,7 +140,7 @@ footer {
   width: 100%;
   height: 50%;
   object-fit: cover;
-  object-position: center top;
+  object-position: 50% 50%;
 }
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
