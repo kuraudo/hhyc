@@ -139,7 +139,7 @@ footer {
 .carousel {
   margin: auto;
   width: 90%;
-  height: 50%;
+  height: 80%;
   padding: 10px; 
   object-fit: cover;
 }
