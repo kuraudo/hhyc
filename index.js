@@ -6,14 +6,13 @@ window.jQuery = window.$ = $;
 $(".carousel").slick({
  
   // normal options...
-  infinite: false,
+  infinite: true,
  
   // the magic
   responsive: [{
  
       breakpoint: 1024,
-      settings: {
-        infinite: true,
+      settings: {     
         autoplay: true,
         autoplaySpeed: 1000,
       }
