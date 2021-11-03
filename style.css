@@ -143,6 +143,10 @@ footer {
   object-position: 50% -150%;
 }
 
+.carousel {
+  width: 150%;
+}
+
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
   .mobile {
