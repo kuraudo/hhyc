@@ -10,6 +10,7 @@ $(".carousel").slick({
     slidesToShow: 1,
     slidesToScroll: 1,
     fade: true,
+    autoplay: true,
     cssEase: 'linear',
     infinite: true,
     responsive: [{
@@ -27,7 +28,8 @@ $(".carousel").slick({
  
       breakpoint: 600,
       settings: {
-        dots: true
+        dots: true,
+        autoplay: false,
       }
  
     }, {
