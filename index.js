@@ -5,15 +5,14 @@ window.jQuery = window.$ = $;
 
 $(".carousel").slick({
  
-  // normal options...
+ 
     dots: true,
     slidesToShow: 1,
     slidesToScroll: 1,
     fade: true,
-    cssEase: 'linear'infinite: true,
- 
-  // the magic
-  responsive: [{
+    cssEase: 'linear',
+    infinite: true,
+    responsive: [{
  
       breakpoint: 1024,
       settings: {
