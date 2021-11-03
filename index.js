@@ -14,6 +14,7 @@ $(".carousel").slick({
     autoplaySpeed: 1000,
     cssEase: 'linear',
     infinite: true,
+    arrows: false,
     responsive: [{
  
       breakpoint: 1024,
