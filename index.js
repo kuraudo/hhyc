@@ -11,7 +11,7 @@ $(".carousel").slick({
     slidesToScroll: 1,
     fade: true,
     autoplay: true,
-    autoplaySpeed: 800,
+    autoplaySpeed: 1000,
     cssEase: 'linear',
     infinite: true,
     responsive: [{
