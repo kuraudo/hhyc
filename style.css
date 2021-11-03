@@ -1,5 +1,3 @@
-@import url('node_modules/slick-carousel/slick/slick.css');
-@import url('node_modules/slick-carousel/slick/slick-theme.css');
 /* Reseteamos los margenes a 0 */
 HTML, body {
   margin: 0px 0px 3vh 0px;
