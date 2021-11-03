@@ -14,7 +14,8 @@ $(".carousel").slick({
       breakpoint: 1024,
       settings: {
         slidesToShow: 4,
-        infinite: true
+        infinite: true,
+        autoplay: true
       }
  
     }, {
