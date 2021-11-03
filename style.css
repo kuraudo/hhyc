@@ -143,7 +143,7 @@ footer {
   object-position: 50% -150%;
 }
 
-.carousel {
+.carousel img{
   width: 150%;
 }
 
@@ -187,7 +187,7 @@ footer {
     padding: 10px; 
   }
   
-  .carousel {
+  .carousel img{
     width: 100%;
   }
 }
