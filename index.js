@@ -13,7 +13,7 @@ $(".carousel").slick({
  
       breakpoint: 1024,
       settings: {
-        slidesToShow: 3,
+        slidesToShow: 4,
         infinite: true
       }
  
@@ -21,7 +21,7 @@ $(".carousel").slick({
  
       breakpoint: 600,
       settings: {
-        slidesToShow: 2,
+        slidesToShow: 4,
         dots: true
       }
  
