@@ -15,7 +15,8 @@ $(".carousel").slick({
       settings: {
         slidesToShow: 4,
         infinite: true,
-        autoplay: true
+        autoplay: true,
+        autoplaySpeed: 1000,
       }
  
     }, {
