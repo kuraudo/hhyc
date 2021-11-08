@@ -155,6 +155,11 @@ footer {
   width: 150%;
 }
 
+.img-container {
+  width: 100%;
+  object-fit: cover;
+  object-position: 50% -150%;
+}
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
   .mobile {
