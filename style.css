@@ -164,6 +164,26 @@ footer {
 .img-container img{
   width: 100%;
 }
+
+.indice_container {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
+
+.indice_titulo {
+    font-weight: 700;
+    text-align: center;
+}
+
+.indice_container li{
+    list-style: outside none none !important;
+}
+
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
   .mobile {
