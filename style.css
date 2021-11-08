@@ -28,7 +28,7 @@ footer {
   height: 3vh;
   bottom: 0px;
   margin-bottom: 0px;
-  position:absolute;
+  position:fixed;
   width:100%;
 }
 .navbar {
