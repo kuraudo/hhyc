@@ -6,6 +6,7 @@ HTML, body {
 }
 body {
   background-color: lightgray;
+  font-size: 20px;
 }
 
 header {
