@@ -244,12 +244,4 @@ footer {
   .carousel img{
     width: 100%;
   }
-	
-  .video-container iframe, .video-container object, .video-container embed {
-    height: auto;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 75%;
-  }
 }
