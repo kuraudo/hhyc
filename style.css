@@ -246,14 +246,10 @@ footer {
   }
 	
   .video-container iframe, .video-container object, .video-container embed {
-    float: none;
-    clear: both;
-    width: 700px;
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 25px;
-    height: 0;
-    margin: 0 auto;
-    max-width: 100%;
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 75%;
   }
 }
