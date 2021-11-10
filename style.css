@@ -208,8 +208,8 @@ footer {
 }
 
 .detalle-link {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
 .left-link-item {
