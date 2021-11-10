@@ -228,6 +228,7 @@ footer {
   
   .desktop {
     display: flex;
+    flex-direction: row;
   }
   
   .navbar a {
