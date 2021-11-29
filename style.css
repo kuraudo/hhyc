@@ -36,7 +36,7 @@ footer {
   background-color: #333;
   text-align: center;
   color: white;
-  height: 3vh;
+  height: 4vh;
   bottom: 0px;
   margin-bottom: 0px;
   position:fixed;
@@ -45,7 +45,7 @@ footer {
 }
 
 footer a{
-  color: white;
+  color: lightblue;
   text-decoration: none;
 }
   
@@ -250,6 +250,10 @@ footer a{
   header {
     display: flex;
     align-items: center
+  }
+  
+  footer {
+    height: 3vh;
   }
   
   .grid-container {
