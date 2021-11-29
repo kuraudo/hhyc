@@ -18,6 +18,10 @@ header {
   background-position: left center;
 }
 
+header img{
+  height : 100%;
+  width : auto;
+  
 header p{
  margin-left: 10px; 
 }
@@ -37,6 +41,12 @@ footer {
   width:100%;
   font-size: 12px;
 }
+
+footer a{
+  color: white;
+  text-decoration: none;
+}
+  
 .navbar {
   overflow: hidden;
   background-color: #333;
