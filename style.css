@@ -4,6 +4,7 @@ HTML, body {
   padding: 0px;
   border: 0px;
 }
+
 body {
   background-color: lightgray;
   font-size: 20px;
@@ -21,7 +22,8 @@ header {
 header img{
   height : 100%;
   width : auto;
-  
+}
+
 header p{
  margin-left: 10px; 
 }
