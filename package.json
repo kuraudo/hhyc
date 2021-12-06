@@ -21,6 +21,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "slick-carousel": "^1.8.1"
   }
 }
