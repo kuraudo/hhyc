@@ -1,6 +1,6 @@
 import $ from 'jquery'
 import 'slick-carousel'
-import '@fortawesome/fontawesome-free'
+import '@fortawesome/fontawesome-free/css/all.css'
     
 window.jQuery = window.$ = $; 
 
