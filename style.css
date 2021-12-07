@@ -244,6 +244,15 @@ footer img{
   text-align: right;
 }
 
+.svg-container {
+  display: flex;
+  justify-content: center;
+}
+
+.svg-container img{
+  width: 25%;
+}
+
 /* Escritorio: */
 @media only screen and (min-width: 768px) {
   .mobile {
@@ -291,5 +300,9 @@ footer img{
   
   .carousel img{
     width: 100%;
+  }
+  
+  .svg-container img{
+    width: 15%;
   }
 }
