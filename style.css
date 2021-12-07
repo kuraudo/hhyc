@@ -177,6 +177,10 @@ footer a{
   margin-bottom: 60px !important;
 }
 
+.portada img {
+  clip-path: circle(70%);
+}
+
 .img-container {
   width: 100%;
   object-fit: cover;
