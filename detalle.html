@@ -37,7 +37,13 @@
     </div>
     <div class="detalle">
       <article>
-        <div class="img-container"><img src="images/palma1.jpg" alt="La Seu"></div>
+        <div class="img-container">
+          <picture>
+            <source media="(max-width: 767px)" srcset="palma1-667w.jpg">
+            <source media="(min-width: 768px)" srcset="palma1.jpg">
+            <img src="images/palma1-667w.jpg" alt="La Seu">
+          </picture>
+        </div>
         <div class="indice_container">
           <p class="indice_titulo">Contenido</p>
           <ul class="indice_lista">
