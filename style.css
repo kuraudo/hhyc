@@ -53,6 +53,10 @@ footer a{
   text-decoration: none;
 }
   
+footer img{
+  height: 50%;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #333;
