@@ -14,7 +14,7 @@ header {
   display: none;
   width: 100%;
   height: 9vh;
-  background-image: url("images/mallorca1.jpg");
+  background-image: url("images/mallorca1.webp");
   background-size: cover;
   background-position: left center;
 }
@@ -135,23 +135,23 @@ footer img{
 }
 
 .palma {
-  background-image: url("images/palma1.jpg");
+  background-image: url("images/palma1.webp");
 }
 
 .alcudia {
-  background-image: url("images/alcudia1.jpg");
+  background-image: url("images/alcudia1.webp");
 }
 
 .andratx {
-  background-image: url("images/andratx1.jpg");
+  background-image: url("images/andratx1.webp");
 }
 
 .soller {
-  background-image: url("images/soller1.jpg");
+  background-image: url("images/soller1.webp");
 }
 
 .drach {
-  background-image: url("images/drach1.jpg");
+  background-image: url("images/drach1.webp");
 }
 
 .white {
