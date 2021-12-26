@@ -1,6 +1,7 @@
 import $ from 'jquery'
 import 'slick-carousel'
 import '@fortawesome/fontawesome-free/css/all.css'
+import 'jquery-lazy'
     
 window.jQuery = window.$ = $; 
 
