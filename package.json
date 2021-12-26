@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
+    "jquery-lazy": "^1.7.11",
     "slick-carousel": "^1.8.1"
   }
 }
