@@ -7,7 +7,7 @@ window.jQuery = window.$ = $;
 
 $(".carousel").slick({
  
- 
+    lazyLoad: 'ondemand',
     dots: true,
     slidesToShow: 1,
     slidesToScroll: 1,
