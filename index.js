@@ -1,5 +1,4 @@
 import $ from 'jquery'
-import 'jquery'
 import 'slick-carousel'
 import '@fortawesome/fontawesome-free/css/all.css'
 import 'jquery-lazy'
