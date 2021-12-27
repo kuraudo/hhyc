@@ -41,6 +41,3 @@ $(".carousel").slick({
  
     }]
 });
-$(function() {
-        $('.lazy').lazy();
-});
