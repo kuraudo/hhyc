@@ -311,24 +311,4 @@ footer img{
   .svg-container img{
     width: 15%;
   }
-  
-  .palma {
-    background-image: url("images/palma1.webp");
-  }
-
-  .alcudia {
-    background-image: url("images/alcudia1.webp");
-  }
-
-  .andratx {
-    background-image: url("images/andratx1.webp");
-  }
-
-  .soller {
-    background-image: url("images/soller1.webp");
-  }
-
-  .drach {
-    background-image: url("images/drach1.webp");
-  }
 }
