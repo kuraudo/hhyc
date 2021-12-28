@@ -249,7 +249,7 @@ footer img{
   justify-content: center;
 }
 
-.svg-container img{
+.svg-container>picture>img{
   width: 25%;
 }
 
